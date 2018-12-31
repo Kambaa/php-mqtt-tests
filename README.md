@@ -1,5 +1,5 @@
 # php-mqtt-tests
-PHP MQTT  Tests.
+PHP MQTT  Tests. https://github.com/bluerhinos/phpMQTT
 
 ### Requirement: 
 A MQTT server is required to run ( i.e. mosquitto - https://github.com/eclipse/mosquitto#installing )
